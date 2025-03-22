@@ -23,6 +23,7 @@
 ---
 
 ### 💼 Experience  
+💻 **Freelance Web Developer** | Wix, React, AWS  
 🛠 **Help Desk Support** | Murdoch University (Feb 2024 - July 2024)  
 Assisted students and staff with Tier 1 IT issues, including password resets, software installations, and network troubleshooting.  
 
