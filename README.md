@@ -1,5 +1,4 @@
-## Hi there 👋, I'm Arogya Badal, a Computer Science student, writing code and breaking (then fixing) things.
-
+## Hi there 👋, I'm Arogya Badal
 
 
 ### 🚀 About Me  
