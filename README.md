@@ -9,7 +9,7 @@ My current quest? **Building clean, efficient software that (hopefully) doesn’
 ### 🚀 About Me  
 🎓 **Computer Science Student** | Murdoch University (2024 - 2025)  
 💻 **Aspiring Software Developer** | Passionate about Web Dev, AI, and System Design  
-⚽ **Futsal Player & Gym Enthusiast** | Active Physically
+⚽ **Futsal & Gym Rat** | Active Physically
 
 ---
 
