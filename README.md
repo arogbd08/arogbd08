@@ -33,9 +33,9 @@ Assisted students and staff with Tier 1 IT issues, including password resets, so
 
 ---
 
-### 💬 Let's Connect  
-📧 Email: arogbd08@gmail.com  
-📍 Perth, WA  
+
+### 🔍 What I’m Looking For  
+I'm seeking opportunities in **software development, web development, or AI-driven solutions
 
 ---
 
