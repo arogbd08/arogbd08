@@ -2,10 +2,10 @@
 
 
 ### 🚀 About Me  
-🎓 **Computer Science Student** | Murdoch University (2024 - 2025)  
-⚡ **I Love Building Stuff** | AI chatbots, web apps, and chess engines that try (and succeed) at outthinking me  
-💡 **Focused on Clean Code** | Building software that (hopefully) doesn’t break five minutes after deployment  
-⚽ **Futsal Player/Gym Rat** | Growth in Every Motion
+🎓 **Computer Science Student**  |  Murdoch University (2024 - 2025)  
+⚡ **I Love Building Stuff**  |  AI chatbots, web apps, and chess engines that try (and succeed) at outthinking me  
+💡 **Focused on Clean Code**  |  Building software that (hopefully) doesn’t break five minutes after deployment  
+⚽ **Futsal Player/Gym Rat**  |  Growth in Every Motion
 
 
 ---
