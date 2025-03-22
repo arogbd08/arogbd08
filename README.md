@@ -1,9 +1,14 @@
 ## Hi there 👋, I'm Arogya Badal  
 
+A Computer Science student, writing code and breaking (then fixing) things.
+I love building stuff—whether it’s **AI-powered chatbots, web apps, or chess engines that try to outthink me**. 
+My current quest? **Building clean, efficient software that (hopefully) doesn’t break five minutes after deployment—because debugging at 2 AM isn’t a personality trait.**  
+
+
 ### 🚀 About Me  
 🎓 **Computer Science Student** | Murdoch University (2024 - 2025)  
 💻 **Aspiring Software Developer** | Passionate about Web Dev, AI, and System Design  
-⚽ **Futsal Player & Gym Enthusiast** | Always up for a challenge  
+⚽ **Futsal Player & Gym Enthusiast** | Active Physically
 
 ---
 
@@ -35,4 +40,4 @@ Assisted students and staff with Tier 1 IT issues, including password resets, so
 
 ---
 
-### PS: I don't skip leg day 💪
+**P.S. I don’t skip leg day.** 🦵🔥
