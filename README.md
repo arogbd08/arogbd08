@@ -1,8 +1,7 @@
 ## Hi there 👋, I'm Arogya Badal  
 
 A Computer Science student, writing code and breaking (then fixing) things.
-
-I love building stuff—whether it’s **AI-powered chatbots, web apps, or chess engines that try to outthink me**. 
+I love building stuff—whether it’s AI-powered chatbots, web apps, or chess engines that try to outthink me. 
 
 My current quest? **Building clean, efficient software that (hopefully) doesn’t break five minutes after deployment—because debugging at 2 AM isn’t a personality trait.**  
 
@@ -15,10 +14,11 @@ My current quest? **Building clean, efficient software that (hopefully) doesn’
 ---
 
 ### 🔧 Tech Stack  
-- **Languages**: C#, Java, JavaScript  
-- **Web**: React, Node.js, Wix  
-- **AI/ML**: ML.NET  
-- **DevOps**: AWS, Docker  
+- **Languages**: C#, Java, JavaScript, C++  
+- **Web**: Vite, React, Node.js, Wix  
+- **AI/ML**: ML.NET
+- **Database Management**: MySQL, MongoDB
+- **DevOps**: GIT, AWS, Docker  
 
 ---
 
