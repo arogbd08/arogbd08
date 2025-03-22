@@ -1,16 +1,13 @@
-## Hi there 👋, I'm Arogya Badal  
+## Hi there 👋, I'm Arogya Badal, a Computer Science student, writing code and breaking (then fixing) things.
 
-
-- A Computer Science student, writing code and breaking (then fixing) things.
-I love building stuff—whether it’s AI-powered chatbots, web apps, or chess engines that try to outthink me. 
-
-My current quest? **Building clean, efficient software that (hopefully) doesn’t break five minutes after deployment—because debugging at 2 AM isn’t a personality trait.**  
 
 
 ### 🚀 About Me  
 🎓 **Computer Science Student** | Murdoch University (2024 - 2025)  
-💻 **Aspiring Software Developer** | Passionate about Web Dev, AI, and System Design  
-⚽ **Futsal & Gym Rat** | Active Physically
+⚡ **I Love Building Stuff** | AI chatbots, web apps, and chess engines that try (and succeed) at outthinking me  
+💡 **Focused on Clean Code** | Building software that (hopefully) doesn’t break five minutes after deployment  
+⚽ **Futsal Player/Gym Rat** | Strong Code & Strong Squats  
+
 
 ---
 
