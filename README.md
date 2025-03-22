@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Arogya Badal  
 
-    A Computer Science student, writing code and breaking (then fixing) things.
+
+- A Computer Science student, writing code and breaking (then fixing) things.
 I love building stuff—whether it’s AI-powered chatbots, web apps, or chess engines that try to outthink me. 
 
 My current quest? **Building clean, efficient software that (hopefully) doesn’t break five minutes after deployment—because debugging at 2 AM isn’t a personality trait.**  
